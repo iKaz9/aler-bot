@@ -7,8 +7,7 @@ import numpy as np
 from datetime import datetime
 
 # ========== CONFIG ==========
-BOT_TOKEN = "8447902476:AAFr8CFMEVNrkhmZnMsTFiaZf7C3vBQXif0"
-CHAT_ID = "6416081625"
+
 
 TIMEFRAME = "5m"
 KLINES_LIMIT = 60
